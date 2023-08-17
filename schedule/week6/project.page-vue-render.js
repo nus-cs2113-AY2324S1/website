@@ -53,6 +53,6 @@ with(this){return _c('li',[_v("As this is a draft only and the final version wil
 with(this){return _c('li',[_v("IMPORTANT:\n"),_c('ul',[_c('li',[_v("Specify the precise/full command syntax for the CLI commands that you will deliver at v1.0.\ni.e., we want you to know exactly what you plan to deliver at v1.0 -- while it is fine to change this plan later, it is still important to have a plan first.")]),_v(" "),_c('li',[_v("Include all features that will be available in v1.0. There is no need to include features that will be delivered beyond v1.0.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Mon, 14 Aug 2023, 23:31:22 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Thu, 17 Aug 2023, 22:12:16 GMT+8]")])])])}
 }];
   
