@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('ul',[_c('li',[_v("Show your collaborative projec
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("Do the following iP task")]),_v(" but note the following:\n"),_c('ul',[_c('li',[_v("After adding the first review comment, take a screenshot of the comment and paste in the "),_c('em',[_v("shared workspace")]),_v(" document. This will help the tutor confirm that you are on the right track.")]),_v(" "),_c('li',[_v("Provide at least 4-5 review comments")]),_v(" "),_c('li',[_v("Do "),_c('span',{staticClass:"badge bg-dark"},[_v("Step 4")]),_v(" only after the tutorial is over.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Fri, 18 Aug 2023, 14:44:06 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Fri, 18 Aug 2023, 14:53:54 GMT+8]")])])])}
 }];
   
