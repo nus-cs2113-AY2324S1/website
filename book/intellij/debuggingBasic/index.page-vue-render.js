@@ -20,6 +20,6 @@ with(this){return _c('div',{staticClass:"block-embed block-embed-service-youtube
 with(this){return _c('ul',[_c('li',[_c('a',{attrs:{"href":"https://www.jetbrains.com/help/idea/debugger-basics.html"}},[_v("IntelliJ IDEA Documentation: Debugging Basics")]),_v(" - Can be used as a reference document when you want to recall how to use a debugging feature.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Fri, 25 Aug 2023, 14:19:19 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Tue, 5 Sept 2023, 13:14:43 GMT+8]")])])])}
 }];
   
