@@ -21,7 +21,7 @@ week4: [
 ],
 week5: [
   {id: 'submit_coding_exercises', graded: true},
-  {id: 'practice_peer_evaluations_on_TEAMMATES', deadline: get_date(date_w5_start, 5)}
+  {id: 'practice_peer_evaluations_on_TEAMMATES', deadline: get_date(date_w5_start, 8)}
 ],
 week6: [
   {id: 'submit_coding_exercises', graded: true},
