@@ -41,6 +41,6 @@ with(this){return _c('span',{staticClass:"badge bg-danger  font-weight-normal"},
 with(this){return _c('ol',{attrs:{"start":"2"}},[_c('li',[_c('span',{staticClass:"badge bg-info  font-weight-normal"},[_c('span',[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}}),_v(" during the tutorial")])]),_v(" "),_c('ul',[_c('li',[_v("Paste the diagram (take a photo if you drew on paper) in the "),_c('em',[_v("tutorial workspace")]),_v(" document.")]),_v(" "),_c('li',[_c('strong',[_v("Discuss answers")]),_v(" as guided by the tutor.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Mon, 11 Sept 2023, 17:54:56 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Tue, 12 Sept 2023, 22:40:11 GMT+8]")])])])}
 }];
   
