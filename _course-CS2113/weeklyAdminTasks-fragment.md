@@ -25,17 +25,17 @@ week5: [
 ],
 week6: [
   {id: 'submit_coding_exercises', graded: true},
-  {id: 'submit_post_lecture_quiz', graded: true, deadline: "before the lecture"},
+  {id: 'submit_post_lecture_quiz', graded: true, deadline: "before the next lecture"},
   {id: 'submit_midterm_feedback_for_the_course', deadline: get_date(date_w6_start, 15), deadline_type: 'info'}
 ],
 week7: [
   {id: 'submit_post_lecture_quiz', graded: true}
 ],
 week8: [
-  {id: 'submit_post_lecture_quiz', graded: true, deadline: "before the lecture"}
+  {id: 'submit_post_lecture_quiz', graded: true, deadline: "before the next lecture"}
 ],
 week9: [
-  {id: 'submit_post_lecture_quiz', graded: true, deadline: "before the lecture"},
+  {id: 'submit_post_lecture_quiz', graded: true, deadline: "before the next lecture"},
   {id: 'submit_midterm_peer_evaluations', graded: true, deadline: get_date(date_w9_start, 7)}
 ],
 week10: [
